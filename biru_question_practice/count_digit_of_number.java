@@ -10,6 +10,7 @@ public class count_digit_of_number {
                 n=n/10;
             }
             System.out.println(count);
+            biru.close();
         }
     }
 

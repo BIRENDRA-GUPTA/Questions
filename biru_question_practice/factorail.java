@@ -24,5 +24,6 @@ public class factorail {
         fact = fact*i;
     }
     System.out.println(fact);
+    biru.close();
     }
 }
